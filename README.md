@@ -1,4 +1,4 @@
-# 🕸️ Çizgesel v1.2 - Gelişmiş Graf Teorisi Analiz Motoru
+# 🕸️ Çizgesel v1.2 Şablon(Şu Anlık) - Gelişmiş Graf Teorisi Analiz Motoru
 
 Çizgesel, graf teorisi problemlerini çözmek ve görselleştirmek için geliştirilmiş **hibrit mimarili** bir ağ analiz aracıdır. 
 
