@@ -22,6 +22,11 @@ Bu projenin en büyük mühendislik özelliği; arka plandaki hiçbir algoritman
 *   **Görselleştirme Kütüphanesi:** [Cytoscape.js](https://js.cytoscape.org/)
 *   **İletişim Protokolü:** JSON (JavaScript Object Notation) Stringify/Parse köprüsü
 
+## 📸 Ekran Görüntüleri
+
+**Uygulama Arayüzü ve Serbest Çizim**
+![Ana Arayüz](gorseller/arayuz.png)
+
 ## 🚀 Kurulum ve Kullanım
 
 1. Bu depoyu bilgisayarınıza klonlayın:
