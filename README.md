@@ -1,6 +1,6 @@
-# 🕸️ Çizgesel v1.2 Şablon(Şu Anlık) - Gelişmiş Graf Teorisi Analiz Motoru
+# 🕸️ Çizgesel v1.2 - Gelişmiş Graf Teori Analiz Motoru
 
-Çizgesel, graf teorisi problemlerini çözmek ve görselleştirmek için geliştirilmiş **hibrit mimarili** bir ağ analiz aracıdır. 
+Çizgesel, graf teori problemlerini çözmek ve görselleştirmek için geliştirilmiş **hibrit mimarili** bir ağ analiz aracıdır. 
 
 Arka planda ağır matematiksel hesaplamalar için **MATLAB App Designer** çalışırken, ön yüzdeki interaktif çizimler ve animasyonlar **Cytoscape.js** (V8 JavaScript Motoru) ile sağlanmaktadır. Bu iki yapı birbirleriyle eşzamanlı olarak **JSON tabanlı bir köprü mimarisi** üzerinden haberleşir.
 
